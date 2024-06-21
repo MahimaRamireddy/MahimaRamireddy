@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahimaRamireddy
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning front end web development
+- 👀 I’m interested in Application of AI/ML in autonomous Driving.
+- 🌱 I’m currently learning Application of AI/ML in autonomous Driving.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mahimaramireddy@gmail.com
 
